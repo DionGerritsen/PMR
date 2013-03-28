@@ -1,0 +1,12 @@
+
+/* TEAM */
+	Chef: Dion Gerritsen
+	Contact: dion.gerritsen95 [at] gmail.com
+	Twitter: @iLoveLarissax
+	From: Purmerend, Netherlands
+
+/* SITE */
+	Last update: 0
+	Language: Dutch
+	Doctype: HTML5
+	IDE: Sublime Text 2, Sketch 2, Github
