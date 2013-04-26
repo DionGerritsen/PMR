@@ -1,12 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
 
-/* TEAM */
-	Chef: Dion Gerritsen
-	Contact: dion.gerritsen95 [at] gmail.com
-	Twitter: @iLoveLarissax
-	From: Purmerend, Netherlands
+# TEAM
 
-/* SITE */
-	Last update: 0
-	Language: Dutch
-	Doctype: HTML5
-	IDE: Sublime Text 2, Sketch 2, Github
+    Dion Gerritsen -- Webmaster
+
+# THANKS
+
+    <name>
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    Normalize.css, jQuery, Modernizr
